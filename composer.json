@@ -1,5 +1,5 @@
 {
-    "name": "jenstornell/tiny-html-minifier",
+    "name": "malusev/tiny-html-minifier",
     "description": "Minify HTML in PHP with just a single class",
     "keywords": [
         "minifier",
@@ -15,7 +15,9 @@
             "email": "webblayout@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=7.1"
+    },
     "require-dev": {},
     "autoload": {
         "psr-4": {

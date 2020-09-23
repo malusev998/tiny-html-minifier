@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.3 
+
+- Require php 7.1 or greater
+- Add namespaces
+
 ## 2.2
 
 - Removed experimental feature json-ld as it was too buggy.
